@@ -1,0 +1,63 @@
+.book {
+	margin: auto;
+	border: 0rem solid green;
+	padding: 1rem;
+	text-align: center;
+}
+.extrasmall {
+	width: 50%;
+	height: auto;
+}
+.small {
+	width: 60%;
+	height: auto;
+}
+.medium {
+	width: 80%;
+	height: auto;
+}
+.large {
+	height: auto;
+	width: 90%;
+}
+
+#theHike {
+	background-color: black;
+  color: #EDF00E;
+}
+
+#stuffYouShouldKnow {
+  background-color: #D6231E;
+  color: white;
+}
+
+#anythingYouWant {
+  background-color: white;
+  color: #990000
+}
+
+#lookingForAlaska {
+  background-color: black;
+  color: white;
+}
+
+#makeTime {
+	background-color: #f7ce3f;
+}
+
+#yourMoneyOrYourLife {
+  background-color: #F7BF08;
+  color:#069FDB;
+}
+
+#stealLikeAnArtist {
+}
+
+#keepGoing {
+  background-color: #0062AD;
+}
+
+#digitalMinimalism {
+	background-color: lightblue;
+	color: black;
+}
